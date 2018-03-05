@@ -1,0 +1,5 @@
+prod1-Bandeja Paisa-20000-true
+prod2-Paella-20000-true
+prod3-Ensalda Cesar-20000-false
+prod4-Crepe de pollo-20000-true
+prod5-Hamburguesa ranchera-20000-true
